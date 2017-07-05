@@ -1,0 +1,7 @@
+this is the front-end code for the django project, 
+
+same url https://blogit-7b9d0.firebaseapp.com
+
+its hosted as you can tell on firebase, the api is hosted on heroku 
+
+YOU NEED CORS plug in on google chrome, INSTALL IT, ENABLE IT THEN CLICK THE LINK
